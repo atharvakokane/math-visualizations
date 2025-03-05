@@ -1,4 +1,4 @@
 # lorenz attractor
 ---
 
-this is the code to graph a simple lorenz attractor on processing using java.
+this is the code to graph a simple lorenz attractor on processing using python.
